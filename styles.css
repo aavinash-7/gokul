@@ -1,0 +1,182 @@
+/*.container{
+    background-color: antiquewhite;
+   display: flex;
+   justify-content: space-evenly;
+ 
+   flex-wrap: wrap;
+   align-content: flex-end;
+   width: 20%;
+   height:400px;
+
+}
+.box{
+    align-items: center;
+    align-content: center;
+    height: 15px;
+    width: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.last{
+ 
+   width: 20%;
+   height: 70px;
+   background-color: antiquewhite;
+   align-items: end;
+}
+.decline{
+    margin-left: 50px;
+    margin-top: 400px;
+}
+
+.name{
+    height: 2px;
+   margin-top: 50px;
+}  */
+
+.container{
+    background-color: rgb(244, 244, 203);
+    display: flex;
+   
+  
+    width: 30%;
+    height: 15px;
+}
+.top-bar{
+    display: flex;
+    align-items: flex-start;
+    
+}
+.time{
+   font-size: 10px;
+   width: 180px;
+   height: 13px;
+}
+
+
+.top-item1{
+   font-size: 8px;
+   height: 13px;
+   align-content: flex-end;
+}
+.top-item{
+    font-size: 10px;
+    display: flex;
+   align-content: flex-start;
+   gap: 1em;
+   margin: 2px;
+   height: 10px;
+
+}
+.image{
+    height: 111px;
+    background-color: rgb(244, 244, 203);
+    width: 262px;
+    align-content: flex-end;
+    
+}
+.dp{
+    margin-left: 75px;
+}
+
+.image1{
+    font-size: 12px;
+    align-items: center;
+    height: 110px;
+    background-color: rgb(244, 244, 203);
+    width: 262px;
+    align-content:flex-start;
+    padding: 0;
+    
+}
+p{
+    margin-left: 100px;
+    margin-top: 5px;
+    margin-bottom: 0%;
+}
+h4{
+    font-size: 12px;
+    margin-left: 85px;
+    margin-top: 3px;
+    margin-bottom: 0%;
+    
+}
+h5{
+    font-size: 18px;
+    margin-left: 106px;
+    margin-top: 7px;
+    }
+.conatiner1{
+    background-color: rgb(244, 244, 203);
+   width: 262px;
+  
+}
+
+.innerconatiner2{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    justify-content: space-evenly;
+}
+.box{
+    align-items: center;
+    align-content: center;
+    height: 15px;
+    width: 50px;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+.lastone{
+    display: flex;
+    height: 110px;
+    background-color: rgb(244, 244, 203);
+    width: 262px;
+}
+.spek{
+    margin: 0%;
+    margin-left: 25px;
+    margin-top: 59px;
+    width: 50px;
+    
+}
+
+
+img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 28px;
+    align-self: center;
+    margin-top: 20px;
+    
+    
+}
+.red{
+    align-self: center;
+    
+}
+.fa-phone{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 120px;
+    margin-top: 55px;
+}
+.dialer{
+    margin: 0%;
+    padding: 0;
+    margin-left: 55px;
+    margin-top: 55px;
+    height: 10px;
+}
+
+.dot1{
+    position:absolute;
+    margin: 0%;
+    margin-bottom: 40px;
+    
+}
+
+
+  
